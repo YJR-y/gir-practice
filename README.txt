@@ -9,3 +9,5 @@ github 提交步骤
 2.git push 推送至远程仓库
 
 git add [文件名]  将文件或者文件夹加入到git追踪
+
+ceshi
